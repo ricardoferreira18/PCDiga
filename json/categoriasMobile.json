@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "src": "/main/categoriesListMobile/iPhone.svg",
+    "title": "iPhone",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 2,
+    "src": "/main/categoriesListMobile/iPad.svg",
+    "title": "iPad",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 3,
+    "src": "/main/categoriesListMobile/appleWatch.svg",
+    "title": "apple Watch",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 4,
+    "src": "/main/categoriesListMobile/airPods.svg",
+    "title": "airPods",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 5,
+    "src": "/main/categoriesListMobile/mac.svg",
+    "title": "Mac",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 6,
+    "src": "/main/categoriesListMobile/appleTv.svg",
+    "title": "apple TV",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 7,
+    "src": "/main/categoriesListMobile/acessorios.svg",
+    "title": "Acessórios",
+    "price": "Desde 1080€"
+  },
+  {
+    "id": 8,
+    "src": "/main/categoriesListMobile/giftCard.svg",
+    "title": "Gift Card",
+    "price": "Desde 1080€"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "src": "/main/destaque/ipad.svg",
+    "title": "Apple iPad Pro (M2) 12.9'' Wi-Fi + Cellular 256GB Prateado    ",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em Stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00 €",
+    "oldPrice": "179.00 €"
+  },
+  {
+    "id": 2,
+    "src": "/main/destaque/capa-ipad.svg",
+    "title": "Capa Apple Smart Folio iPad Pro 11'' (1ª, 2ª, 3ª e 4ª Geração) Preta",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em Stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00 €",
+    "oldPrice": "179.00 €"
+  },
+  {
+    "id": 3,
+    "src": "/main/destaque/teclado-ipad.svg",
+    "title": "Capa Teclado Apple Magic Keyboard iPad Pro 12.9'' (3ª, 4ª, 5ª e 6ª Geração)",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em Stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00 €",
+    "oldPrice": "179.00 €"
+  },
+  {
+    "id": 4,
+    "src": "/main/destaque/airpods-pro.svg",
+    "title": "Apple AirPods Pro (2ª Geração) Wireless Brancos com Caixa .... ",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em Stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00 €",
+    "oldPrice": "179.00 €"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "src": "/main/itemCard/iphone-14-pro.svg",
+    "title": "iPhone 14 Pro",
+    "color": {
+      "green": "#5E746D",
+      "white": "#EDEDED",
+      "pink": "#EFE2E0",
+      "black": "#6B6A6E",
+      "blue": "#C8D6DF"
+    }
+  },
+  {
+    "id": 2,
+    "src": "/main/itemCard/ipad-mini.svg",
+    "title": "iPad mini",
+    "color": {
+      "green": "#5E746D",
+      "white": "#EDEDED",
+      "pink": "#EFE2E0",
+      "black": "#6B6A6E",
+      "blue": "#C8D6DF"
+    }
+  },
+  {
+    "id": 3,
+    "src": "/main/itemCard/airpods-max.svg",
+    "title": "AirPods Max ",
+    "color": {
+      "green": "#5E746D",
+      "white": "#EDEDED",
+      "pink": "#EFE2E0",
+      "black": "#6B6A6E",
+      "blue": "#C8D6DF"
+    }
+  },
+  {
+    "id": 4,
+    "src": "/main/itemCard/iphone-13.svg",
+    "title": "iPhone 13 ",
+    "color": {
+      "green": "#5E746D",
+      "white": "#EDEDED",
+      "pink": "#EFE2E0",
+      "black": "#6B6A6E",
+      "blue": "#C8D6DF"
+    }
+  },
+  {
+    "id": 5,
+    "src": "/main/itemCard/apple-watch.svg",
+    "title": "iPad Pro",
+    "color": {
+      "white": "#EDEDED",
+      "pink": "#EFE2E0",
+      "black": "#6B6A6E"
+    }
+  },
+  {
+    "id": 6,
+    "src": "/main/itemCard/airpods-pro.svg",
+    "title": "AirPods Pro"
+  },
+  {
+    "id": 7,
+    "src": "/main/itemCard/ipad-pro.svg",
+    "title": "iPad Pro",
+    "color": {
+      "green": "#5E746D",
+      "white": "#EDEDED",
+      "pink": "#EFE2E0",
+      "black": "#6B6A6E",
+      "blue": "#C8D6DF"
+    }
+  },
+  {
+    "id": 8,
+    "src": "/main/itemCard/macbook-air.svg",
+    "title": "iPad Pro",
+    "color": {
+      "white": "#EDEDED",
+      "black": "#6B6A6E"
+    }
+  }
+]

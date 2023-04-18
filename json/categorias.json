@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "src": "/main/categories/all.svg",
+    "title": "Todos"
+  },
+  {
+    "id": 2,
+    "src": "/main/categories/mac.svg",
+    "title": "Mac"
+  },
+  {
+    "id": 3,
+    "src": "/main/categories/ipad.svg",
+    "title": "iPad"
+  },
+  {
+    "id": 4,
+    "src": "/main/categories/iphone.svg",
+    "title": "iPhone"
+  },
+  {
+    "id": 5,
+    "src": "/main/categories/apple-watch.svg",
+    "title": "Apple Watch"
+  },
+  {
+    "id": 6,
+    "src": "/main/categories/airpods.svg",
+    "title": "AirPods"
+  },
+  {
+    "id": 7,
+    "src": "/main/categories/apple-tv.svg",
+    "title": "Apple TV 4K"
+  },
+  {
+    "id": 8,
+    "src": "/main/categories/accessories.svg",
+    "title": "Accessories"
+  }
+]

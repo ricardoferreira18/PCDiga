@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "src": "/main/promo/iphone-11.svg",
+    "title": "Smartphone Apple iPhone 11 6.1'' 64GB Preto",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00€",
+    "oldPrice": "179.00€"
+  },
+  {
+    "id": 2,
+    "src": "/main/promo/macbook-pro.svg",
+    "title": "Apple MacBook Pro 14.2'' | M1 Pro CPU 10‑core, GPU 16‑core ...",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00€",
+    "oldPrice": "179.00€"
+  },
+  {
+    "id": 3,
+    "src": "/main/promo/apple-watch.svg",
+    "title": "Apple Watch Ultra GPS+Cellular 49mm Titânio c/ Bracelete ... ",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00€",
+    "oldPrice": "179.00€"
+  },
+  {
+    "id": 4,
+    "src": "/main/promo/ipad-air.svg",
+    "title": "Apple iPad Air (5ª Geração) M1 10.9'' Wi-Fi 256GB Cinzento Sideral",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00€",
+    "oldPrice": "179.00€"
+  },
+  {
+    "id": 5,
+    "src": "/main/promo/adaptador-corrente.svg",
+    "title": "Adaptador de corrente Apple USB-C de 20W",
+    "description": "Os novos AirPods recriam a experiência auditiva dos auscultadores sem fios. Retire-os da caixa e estão prontos a usar.",
+    "code": "MV7N2TY/A",
+    "stock": "Em stock",
+    "entrega": "Entrega prevista a partir de 17 JAN",
+    "price": "169.00€",
+    "oldPrice": "179.00€"
+  }
+]
